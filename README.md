@@ -1,5 +1,7 @@
-### Hi there!👋 My name is Anson Quan, I am currently living, and working here in Toronto, Canada. I am also a Software Engineering Technology student of Centennial College!
-### Please feel free to contact me!
+### Hi there!👋 My name is Anson Quan, I am currently living, and working here in Toronto, Canada. 
+### I am a Software Engineering Technology 🖥 student of Centennial College!
+### Also experienced in Software Development, Software Design, Data Analysis, Automation Learning, and Hardware Repair
+### 👉Please feel free to contact me!👉 
 
 <!--
 **Anson-Quan/Anson-Quan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
