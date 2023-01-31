@@ -3,6 +3,7 @@
 ### Also experienced in Software Development, Software Design, Data Analysis, Automation Learning, and Hardware Repair
 ### 👉Please feel free to contact me!👉 
 <a href ="https://www.linkedin.com/in/anson-quan"><img src="https://user-images.githubusercontent.com/99386611/215908080-176ce08f-0721-499f-b0ff-5443372ca0d7.png" height="50" width="50"></a>
+&nbsp;
 <a href ="mailto:ansonquan01@gmail.com"><img src="https://user-images.githubusercontent.com/99386611/215908921-8add3d7b-50d3-412a-a2d6-5e2352ddb335.png" height="50" width="50"></a>
 
 
