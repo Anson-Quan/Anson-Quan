@@ -7,6 +7,7 @@
 &nbsp;
 <a href ="mailto:ansonquan01@gmail.com"><img src="https://user-images.githubusercontent.com/99386611/215908921-8add3d7b-50d3-412a-a2d6-5e2352ddb335.png" height="50" width="50"></a>&nbsp;
 <a href ="https://pajfajweb.azurewebsites.net/home"><img src="https://user-images.githubusercontent.com/99386611/215909450-95fe69cd-7c89-497a-9f02-a563663110f9.png" height="50" width="50"></a>&nbsp;
+<a href ="file:///D:/Anson/Employment%20Preparation/Resume/ThuanAnQuan_Software%20Developer%20Resume.pdf"><img src="https://user-images.githubusercontent.com/99386611/215909450-95fe69cd-7c89-497a-9f02-a563663110f9.png" height="50" width="50"></a>&nbsp;
 
 <!--
 **Anson-Quan/Anson-Quan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
