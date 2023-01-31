@@ -2,8 +2,7 @@
 ### I am a Software Engineering Technology 🖥 student of Centennial College!
 ### Also experienced in Software Development, Software Design, Data Analysis, Automation Learning, and Hardware Repair
 ### 👉Please feel free to contact me!👉 
-### [![image](https://user-images.githubusercontent.com/99386611/215902534-914e0aa5-80eb-42d3-a1d8-73c414e6fc8e.png)
-](https://www.google.com)
+### [<i class="fa-brands fa-linkedin"></i>](https://www.google.com)
 
 <!--
 **Anson-Quan/Anson-Quan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
