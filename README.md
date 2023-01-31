@@ -3,6 +3,8 @@
 ### Also experienced in Software Development, Software Design, Data Analysis, Automation Learning, and Hardware Repair
 ### 👉Please feel free to contact me!👉 
 <a href ="https://www.linkedin.com/in/anson-quan"><img src="https://user-images.githubusercontent.com/99386611/215908080-176ce08f-0721-499f-b0ff-5443372ca0d7.png" height="50" width="50"></a>
+<a href ="mailto:ansonquan01@gmail.com"><img src="https://user-images.githubusercontent.com/99386611/215908080-176ce08f-0721-499f-b0ff-5443372ca0d7.png" height="50" width="50"></a>
+
 
 <!--
 **Anson-Quan/Anson-Quan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
